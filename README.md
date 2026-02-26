@@ -47,14 +47,6 @@ Git • GitHub • Postman • IntelliJ IDEA • VS Code
 
 ---
 
-## 📊 GitHub Stats
-
-![Snehasich's GitHub stats](https://github-readme-stats.vercel.app/api?username=Snehasich&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Snehasich&layout=compact&theme=tokyonight)
-
----
-
 ## 🏆 Achievements
 
 - Oracle Cloud Infrastructure Foundations Associate (2025)
@@ -67,8 +59,8 @@ Git • GitHub • Postman • IntelliJ IDEA • VS Code
 ## 📫 Connect With Me
 
 📧 snehasich2005@gmail.com  
-💼 LinkedIn: (Add your link)  
-📄 Resume: (Add your Drive link)  
+💼 LinkedIn: https://www.linkedin.com/in/snehasichsamal/
+📄 Resume: https://drive.google.com/file/d/1O3gSoF8xst4DFL8bjBXBxWhSFBlsI5Fu/view?usp=sharing
 
 ---
 
